@@ -1,0 +1,5 @@
+static_only #Static_ROOT
+
+
+
+		#Static URL = ?
